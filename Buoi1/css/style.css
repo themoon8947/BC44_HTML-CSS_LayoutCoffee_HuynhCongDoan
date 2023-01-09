@@ -1,0 +1,68 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #faf4f2;
+}
+
+.header h1 {
+    text-align: center;
+    background-color: #394b59;
+    color: white;
+}
+
+.header__menu {
+    text-align: center;
+}
+
+.header__menu a {
+    text-decoration: none;
+}
+
+.about h1 {
+    text-align: center;
+    color: #996633;
+}
+
+.about p {
+    text-align: right;
+    padding-left: 55%;
+}
+
+.special h1 {
+    text-align: center;
+    color: #996633;
+
+}
+
+#menu h1 {
+    text-align: center;
+    color: #996633;
+}
+
+#menu table {
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.contact {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.contact h1 {
+    color: #996633;
+}
+
+.contact p span {
+    font-weight: bold;
+}
+
+.contact p a {
+    text-decoration: none;
+}
